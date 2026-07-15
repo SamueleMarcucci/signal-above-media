@@ -1,0 +1,13 @@
+{
+  "episodeId": "setup-probe",
+  "campaignDay": 0,
+  "assets": [
+    {
+      "kind": "probe",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "dfa520bd915122045572c358aa69100770d478c3b4f9a7e31a8dff844569cc5a",
+      "publicUrl": "https://raw.githubusercontent.com/SamueleMarcucci/signal-above-media/main/media/2026-07-15/dfa520bd915122045572c358aa69100770d478c3b4f9a7e31a8dff844569cc5a-probe.mp4"
+    }
+  ]
+}
