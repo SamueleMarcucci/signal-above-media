@@ -1,0 +1,62 @@
+{
+  "episodeId": "signal-002-moon-drift",
+  "campaignDay": 2,
+  "assets": [
+    {
+      "kind": "reel",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "fe3656c50256bf27a2594969e82421bd71b75fb85fbf835c904ccf5397e739fd",
+      "publicUrl": "https://raw.githubusercontent.com/SamueleMarcucci/signal-above-media/main/media/2026-07-17/fe3656c50256bf27a2594969e82421bd71b75fb85fbf835c904ccf5397e739fd-reel.mp4"
+    },
+    {
+      "kind": "story",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "9474127ed068f1a29ea91536423a43a0de676660dacef43f7f56e222d13eecc2",
+      "publicUrl": "https://raw.githubusercontent.com/SamueleMarcucci/signal-above-media/main/media/2026-07-17/9474127ed068f1a29ea91536423a43a0de676660dacef43f7f56e222d13eecc2-story.jpg"
+    },
+    {
+      "kind": "carousel-01",
+      "width": 1080,
+      "height": 1350,
+      "sha256": "64e3a362f55ea3678f7a080bed12fbde594c82e8a7729488fbda68aa7a28211e",
+      "publicUrl": "https://raw.githubusercontent.com/SamueleMarcucci/signal-above-media/main/media/2026-07-17/64e3a362f55ea3678f7a080bed12fbde594c82e8a7729488fbda68aa7a28211e-carousel-01.jpg"
+    },
+    {
+      "kind": "carousel-02",
+      "width": 1080,
+      "height": 1350,
+      "sha256": "0ca52d9bdcbf6e3a3f9513ddc14d2306b8a8c2c46a5a3aa0b15b57a725570fb2",
+      "publicUrl": "https://raw.githubusercontent.com/SamueleMarcucci/signal-above-media/main/media/2026-07-17/0ca52d9bdcbf6e3a3f9513ddc14d2306b8a8c2c46a5a3aa0b15b57a725570fb2-carousel-02.jpg"
+    },
+    {
+      "kind": "carousel-03",
+      "width": 1080,
+      "height": 1350,
+      "sha256": "c3da838b405daca0308e3bb9d27d2aa7ef29dbea0928163bd23cf7f21fed183d",
+      "publicUrl": "https://raw.githubusercontent.com/SamueleMarcucci/signal-above-media/main/media/2026-07-17/c3da838b405daca0308e3bb9d27d2aa7ef29dbea0928163bd23cf7f21fed183d-carousel-03.jpg"
+    },
+    {
+      "kind": "carousel-04",
+      "width": 1080,
+      "height": 1350,
+      "sha256": "a2a44c5bd7df9f1be4990cd0df63517bde7ba81815dcd387da15372817ea0fdc",
+      "publicUrl": "https://raw.githubusercontent.com/SamueleMarcucci/signal-above-media/main/media/2026-07-17/a2a44c5bd7df9f1be4990cd0df63517bde7ba81815dcd387da15372817ea0fdc-carousel-04.jpg"
+    },
+    {
+      "kind": "carousel-05",
+      "width": 1080,
+      "height": 1350,
+      "sha256": "66eed8436a1f05243050633562bd477958196d328828bda3b99b6953a9ede772",
+      "publicUrl": "https://raw.githubusercontent.com/SamueleMarcucci/signal-above-media/main/media/2026-07-17/66eed8436a1f05243050633562bd477958196d328828bda3b99b6953a9ede772-carousel-05.jpg"
+    },
+    {
+      "kind": "carousel-06",
+      "width": 1080,
+      "height": 1350,
+      "sha256": "8aede7edbd94bc7352d63397e29fe31ba32ea0d79dbfbabbae9f436921418518",
+      "publicUrl": "https://raw.githubusercontent.com/SamueleMarcucci/signal-above-media/main/media/2026-07-17/8aede7edbd94bc7352d63397e29fe31ba32ea0d79dbfbabbae9f436921418518-carousel-06.jpg"
+    }
+  ]
+}
