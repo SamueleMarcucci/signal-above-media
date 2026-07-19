@@ -1,0 +1,13 @@
+{
+  "episodeId": "signal-004-smoke-hides-fire",
+  "campaignDay": 4,
+  "assets": [
+    {
+      "kind": "reel",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "0e14458fa4a12f089d5009eb6a206d4b61081d2aa68cf3b677bb7de20fe21e87",
+      "publicUrl": "https://raw.githubusercontent.com/SamueleMarcucci/signal-above-media/main/media/2026-07-19/0e14458fa4a12f089d5009eb6a206d4b61081d2aa68cf3b677bb7de20fe21e87-reel.mp4"
+    }
+  ]
+}
